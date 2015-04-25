@@ -1,8 +1,12 @@
 # Liangliang Zhang
 
-## nickname
+## Nickname
 
 Liang Ge
+
+## Portrait
+
+![alt](/blog/images/liangliangzhang-portrait.jpg)
 
 ## Date
 
