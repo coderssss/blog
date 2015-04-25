@@ -1,10 +1,11 @@
 # Interview problems
 
-## Algorithm problems
+## 1. Algorithm problems
 
-### 1. Shuffle 
+* 1.1 Shuffle 
 
-## Develop experience
+## 2. Develop experience
 
-### 1. Process and Thread
+* 2.1 Process and Thread
+
 
