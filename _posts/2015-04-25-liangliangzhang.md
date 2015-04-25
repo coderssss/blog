@@ -6,7 +6,7 @@ Liang Ge
 
 ## Portrait
 
-<img src="/blog/images/liangliangzhang-portrait.jpg" alt="" style="width: 200px;" class="rotate90"/>
+<img src="/blog/images/liangliangzhang-portrait.jpg" alt="" style="width: 100px;"/>
 
 ## Date
 
