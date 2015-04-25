@@ -6,9 +6,15 @@ Liang Ge
 
 ## Portrait
 
-<img src="/blog/images/liangliangzhang-portrait.jpg" alt="" style="width: 200px;"/>
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
 
-![alt](/blog/images/liangliangzhang-portrait.jpg =100x20)
+<img src="/blog/images/liangliangzhang-portrait.jpg" alt="" style="width: 200px;" class="rotate90"/>
 
 ## Date
 
