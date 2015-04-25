@@ -6,7 +6,7 @@ Liang Ge
 
 ## Portrait
 
-![alt](/blog/images/liangliangzhang-portrait.jpg =100*20)
+![alt](/blog/images/liangliangzhang-portrait.jpg =100x20)
 
 ## Date
 
