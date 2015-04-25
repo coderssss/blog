@@ -1,0 +1,14 @@
+---
+layout: default
+title: Kai Zhao's blog
+---
+
+This is Kai Zhao.
+
+<h2>{{ page.title }}</h2>
+　　<p>The latest blogs</p>
+　　<ul>
+　　　　{% for post in site.posts %}
+　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+　　　　{% endfor %}
+</ul>
