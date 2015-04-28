@@ -6,9 +6,7 @@ I was selected by GSoC 2015.
 
 ## Proposal
 
-My proposal is: John the Ripper jumbo robustness improvements
-
-http://www.google-melange.com/gsoc/proposal/public/google/gsoc2015/zhaokai/5629499534213120
+My proposal is: [John the Ripper jumbo robustness improvements](http://www.google-melange.com/gsoc/proposal/public/google/gsoc2015/zhaokai/5629499534213120)
 
 ### Abstract
 
